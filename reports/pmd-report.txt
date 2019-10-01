@@ -1,0 +1,140 @@
+src/main/java/org/websparrow/config/FrontControllerConfig.java:5:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/websparrow/config/FrontControllerConfig.java:5:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/websparrow/config/FrontControllerConfig.java:5:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/config/FrontControllerConfig.java:5:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/config/FrontControllerConfig.java:14:	ReturnEmptyArrayRatherThanNull: Return an empty array rather than null.
+src/main/java/org/websparrow/config/FrontControllerConfig.java:14:	ReturnEmptyArrayRatherThanNull: Return an empty array rather than null.
+src/main/java/org/websparrow/config/WebMvcConfig.java:15:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/websparrow/config/WebMvcConfig.java:15:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/websparrow/config/WebMvcConfig.java:15:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/config/WebMvcConfig.java:15:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/config/WebMvcConfig.java:17:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/websparrow/config/WebMvcConfig.java:17:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/websparrow/config/WebMvcConfig.java:18:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the viewResolver method if you want a default access modifier
+src/main/java/org/websparrow/config/WebMvcConfig.java:18:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the viewResolver method if you want a default access modifier
+src/main/java/org/websparrow/config/WebMvcConfig.java:20:	LocalVariableCouldBeFinal: Local variable 'vr' could be declared final
+src/main/java/org/websparrow/config/WebMvcConfig.java:20:	LocalVariableCouldBeFinal: Local variable 'vr' could be declared final
+src/main/java/org/websparrow/config/WebMvcConfig.java:20:	ShortVariable: Avoid variables with short names like vr
+src/main/java/org/websparrow/config/WebMvcConfig.java:20:	ShortVariable: Avoid variables with short names like vr
+src/main/java/org/websparrow/config/WebMvcConfig.java:28:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/websparrow/config/WebMvcConfig.java:28:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/org/websparrow/config/WebMvcConfig.java:29:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the getDataSource method if you want a default access modifier
+src/main/java/org/websparrow/config/WebMvcConfig.java:29:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the getDataSource method if you want a default access modifier
+src/main/java/org/websparrow/config/WebMvcConfig.java:30:	LocalVariableCouldBeFinal: Local variable 'ds' could be declared final
+src/main/java/org/websparrow/config/WebMvcConfig.java:30:	LocalVariableCouldBeFinal: Local variable 'ds' could be declared final
+src/main/java/org/websparrow/config/WebMvcConfig.java:30:	ShortVariable: Avoid variables with short names like ds
+src/main/java/org/websparrow/config/WebMvcConfig.java:30:	ShortVariable: Avoid variables with short names like ds
+src/main/java/org/websparrow/config/WebMvcConfig.java:41:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/config/WebMvcConfig.java:41:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/controller/UserLoginController.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/websparrow/controller/UserLoginController.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/websparrow/controller/UserLoginController.java:13:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/controller/UserLoginController.java:13:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/controller/UserLoginController.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/websparrow/controller/UserLoginController.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/websparrow/controller/UserLoginController.java:16:	CommentRequired: Field comments are required
+src/main/java/org/websparrow/controller/UserLoginController.java:16:	CommentRequired: Field comments are required
+src/main/java/org/websparrow/controller/UserLoginController.java:19:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/controller/UserLoginController.java:19:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/controller/UserLoginController.java:19:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/org/websparrow/controller/UserLoginController.java:19:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/org/websparrow/controller/UserLoginController.java:19:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/org/websparrow/controller/UserLoginController.java:19:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/org/websparrow/controller/UserLoginController.java:21:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/org/websparrow/controller/UserLoginController.java:21:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/org/websparrow/controller/UserLoginController.java:21:	ShortVariable: Avoid variables with short names like mv
+src/main/java/org/websparrow/controller/UserLoginController.java:21:	ShortVariable: Avoid variables with short names like mv
+src/main/java/org/websparrow/controller/UserLoginController.java:23:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/org/websparrow/controller/UserLoginController.java:23:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/org/websparrow/controller/UserLoginController.java:27:	LocalVariableCouldBeFinal: Local variable 'name' could be declared final
+src/main/java/org/websparrow/controller/UserLoginController.java:27:	LocalVariableCouldBeFinal: Local variable 'name' could be declared final
+src/main/java/org/websparrow/controller/UserLoginController.java:29:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/org/websparrow/controller/UserLoginController.java:29:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:13:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:13:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:16:	CommentRequired: Field comments are required
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:16:	CommentRequired: Field comments are required
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:19:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:19:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:19:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:19:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:20:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:20:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:22:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:22:	LocalVariableCouldBeFinal: Local variable 'mv' could be declared final
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:22:	ShortVariable: Avoid variables with short names like mv
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:22:	ShortVariable: Avoid variables with short names like mv
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:24:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:24:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:28:	LocalVariableCouldBeFinal: Local variable 'counter' could be declared final
+src/main/java/org/websparrow/controller/UserRegistrataionController.java:28:	LocalVariableCouldBeFinal: Local variable 'counter' could be declared final
+src/main/java/org/websparrow/dao/UserDao.java:5:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/dao/UserDao.java:5:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/dao/UserDao.java:7:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/dao/UserDao.java:7:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/dao/UserDao.java:7:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'registerUser': the method is declared in an interface type
+src/main/java/org/websparrow/dao/UserDao.java:7:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'registerUser': the method is declared in an interface type
+src/main/java/org/websparrow/dao/UserDao.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/dao/UserDao.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/dao/UserDao.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'loginUser': the method is declared in an interface type
+src/main/java/org/websparrow/dao/UserDao.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'loginUser': the method is declared in an interface type
+src/main/java/org/websparrow/dao/UserDaoImpl.java:8:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/dao/UserDaoImpl.java:8:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/dao/UserDaoImpl.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/websparrow/dao/UserDaoImpl.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/org/websparrow/dao/UserDaoImpl.java:10:	CommentRequired: Field comments are required
+src/main/java/org/websparrow/dao/UserDaoImpl.java:10:	CommentRequired: Field comments are required
+src/main/java/org/websparrow/dao/UserDaoImpl.java:10:	ImmutableField: Private field 'jdbcTemplate' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/websparrow/dao/UserDaoImpl.java:10:	ImmutableField: Private field 'jdbcTemplate' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/org/websparrow/dao/UserDaoImpl.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/dao/UserDaoImpl.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/dao/UserDaoImpl.java:12:	MethodArgumentCouldBeFinal: Parameter 'dataSoruce' is not assigned and could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:12:	MethodArgumentCouldBeFinal: Parameter 'dataSoruce' is not assigned and could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:17:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:17:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:19:	LocalVariableCouldBeFinal: Local variable 'sql' could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:19:	LocalVariableCouldBeFinal: Local variable 'sql' could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:23:	LocalVariableCouldBeFinal: Local variable 'counter' could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:23:	LocalVariableCouldBeFinal: Local variable 'counter' could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:25:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/org/websparrow/dao/UserDaoImpl.java:25:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/org/websparrow/dao/UserDaoImpl.java:25:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'counter'
+src/main/java/org/websparrow/dao/UserDaoImpl.java:25:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'counter'
+src/main/java/org/websparrow/dao/UserDaoImpl.java:27:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/org/websparrow/dao/UserDaoImpl.java:27:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/org/websparrow/dao/UserDaoImpl.java:28:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/org/websparrow/dao/UserDaoImpl.java:28:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/main/java/org/websparrow/dao/UserDaoImpl.java:34:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:34:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:36:	LocalVariableCouldBeFinal: Local variable 'sql' could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:36:	LocalVariableCouldBeFinal: Local variable 'sql' could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:40:	LocalVariableCouldBeFinal: Local variable 'userId' could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:40:	LocalVariableCouldBeFinal: Local variable 'userId' could be declared final
+src/main/java/org/websparrow/dao/UserDaoImpl.java:43:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/org/websparrow/dao/UserDaoImpl.java:43:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/org/websparrow/dao/UserDaoImpl.java:43:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'userId'
+src/main/java/org/websparrow/dao/UserDaoImpl.java:43:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'userId'
+src/main/java/org/websparrow/dao/UserDaoImpl.java:45:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/org/websparrow/dao/UserDaoImpl.java:45:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/org/websparrow/model/User.java:3:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/websparrow/model/User.java:3:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/org/websparrow/model/User.java:3:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/model/User.java:3:	CommentRequired: Header comments are required
+src/main/java/org/websparrow/model/User.java:3:	ShortClassName: Avoid short class names like User
+src/main/java/org/websparrow/model/User.java:3:	ShortClassName: Avoid short class names like User
+src/main/java/org/websparrow/model/User.java:6:	CommentRequired: Field comments are required
+src/main/java/org/websparrow/model/User.java:6:	CommentRequired: Field comments are required
+src/main/java/org/websparrow/model/User.java:6:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/main/java/org/websparrow/model/User.java:6:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/main/java/org/websparrow/model/User.java:12:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/org/websparrow/model/User.java:12:	MethodArgumentCouldBeFinal: Parameter 'userId' is not assigned and could be declared final
+src/main/java/org/websparrow/model/User.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/model/User.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/model/User.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/model/User.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/org/websparrow/model/User.java:20:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/org/websparrow/model/User.java:20:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
